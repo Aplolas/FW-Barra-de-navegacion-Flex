@@ -1,0 +1,39 @@
+.nav {
+background-color: #333333;
+color: #FFFFFF;
+height: 80px;
+width: 1000px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+
+.nav-links {
+width: 500px;
+display: flex;
+align-items: center;
+list-style-type: none;
+justify-content: space-around;
+}
+
+
+.nav a {
+color: #FFFFFF;
+text-decoration: none;
+}
+
+
+.btn {
+height: 40px;
+width: 100px;
+background-color:#0099B1 ;
+color: #FFFFFF;
+border: none;
+box-shadow: 5px 5px #000000;
+}
+
+
+.nav-title {
+    margin-left: 15px;
+}
